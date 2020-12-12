@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/natan15/teamprofile/issues"
   },
-  "homepage": "https://github.com/natan15/teamprofile#readme"
+  "homepage": "https://github.com/natan15/teamprofile#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
